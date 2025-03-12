@@ -1,0 +1,12 @@
+C:\Users\Yelser Carrion\source\repos\MyERP\MyERP\MyERP.WinUI\obj\x64\Debug\net8.0-windows10.0.19041.0\win10-x64\MyERP.WinUI.csproj.AssemblyReference.cache
+C:\Users\Yelser Carrion\source\repos\MyERP\MyERP\MyERP.WinUI\obj\x64\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Users\Yelser Carrion\source\repos\MyERP\MyERP\MyERP.WinUI\obj\x64\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Users\Yelser Carrion\source\repos\MyERP\MyERP\MyERP.WinUI\obj\x64\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Users\Yelser Carrion\source\repos\MyERP\MyERP\MyERP.WinUI\obj\x64\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Users\Yelser Carrion\source\repos\MyERP\MyERP\MyERP.WinUI\obj\x64\Debug\net8.0-windows10.0.19041.0\win10-x64\App.g.i.cs
+C:\Users\Yelser Carrion\source\repos\MyERP\MyERP\MyERP.WinUI\obj\x64\Debug\net8.0-windows10.0.19041.0\win10-x64\App.g.cs
+C:\Users\Yelser Carrion\source\repos\MyERP\MyERP\MyERP.WinUI\obj\x64\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Users\Yelser Carrion\source\repos\MyERP\MyERP\MyERP.WinUI\obj\x64\Debug\net8.0-windows10.0.19041.0\win10-x64\App.xaml
+C:\Users\Yelser Carrion\source\repos\MyERP\MyERP\MyERP.WinUI\obj\x64\Debug\net8.0-windows10.0.19041.0\win10-x64\App.xbf
+C:\Users\Yelser Carrion\source\repos\MyERP\MyERP\MyERP.WinUI\obj\x64\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Users\Yelser Carrion\source\repos\MyERP\MyERP\MyERP.WinUI\obj\x64\Debug\net8.0-windows10.0.19041.0\win10-x64\MyERP.WinUI.GeneratedMSBuildEditorConfig.editorconfig
