@@ -1,0 +1,13 @@
+﻿[
+  {
+    "ID": 1,
+    "USERID": "user@example.com",
+    "PASSWORD": "password",
+    "Nombre": "Empresa X",
+    "ServerSQL": "192.168.0.96\\soporte2022",
+    "LoginSQL": "sa",
+    "PasswordSQL": "sfb123",
+    "DatabaseSQL": "ICAPAR",
+    "EmpresaNameSQL": "Empresa X"
+  }
+]

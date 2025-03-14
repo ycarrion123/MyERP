@@ -35,6 +35,12 @@ namespace MyERP
                 .UseMauiApp<App>()
                 .UseMauiCommunityToolkit();
 
+            // Registro de la configuración (si se requiere leer appsettings, etc.)
+            builder.Configuration.AddJsonFile("Resources/appsettings.json", optional: true);
+
+            // Registro de servicios y factorías
+            builder.Services.AddSingleton<TenantDbContextFactory>();
+
             // Registrar el DbContext para un tenant "default" o de desarrollo.
             // En un escenario real, la cadena de conexión se obtendría dinámicamente según el tenant.
             string defaultConnectionString = "Server=localhost;Database=MyERP_Default;User Id=usuario;Password=contraseña;TrustServerCertificate=True;";
@@ -64,6 +70,10 @@ namespace MyERP
             // Registrar páginas (Views)
             builder.Services.AddTransient<LoginPage>();
             builder.Services.AddTransient<MainPage>();
+
+            // La página de usuarios se registrará, esperando recibir el DbContext ya configurado y la información del tenant.
+            builder.Services.AddTransient<UsuariosPage>();
+            builder.Services.AddTransient<UsuariosViewModel>();
 
             return builder.Build();
         }

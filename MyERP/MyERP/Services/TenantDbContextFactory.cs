@@ -1,33 +1,16 @@
-﻿// Ruta: MyERP/Services/TenantDbContextFactory.cs
-// Este servicio crea una instancia de MyERPDbContext basado en la información del tenant.
-// Permite que cada tenant se conecte a su propia base de datos.
-
-using System;
-using Microsoft.EntityFrameworkCore;
+﻿// Ruta: MyERP/MyERP/Services/TenantDbContextFactory.cs
 using MyERP.Data;
-using MyERP.Models.SaaS;
+using Microsoft.EntityFrameworkCore;
 
 namespace MyERP.Services
 {
-    public interface ITenantDbContextFactory
+    public class TenantDbContextFactory
     {
-        MyERPDbContext CreateDbContext(TenantInfo tenant);
-    }
-
-    public class TenantDbContextFactory : ITenantDbContextFactory
-    {
-        public MyERPDbContext CreateDbContext(TenantInfo tenant)
+        public static MyERPDbContext CreateDbContext(string connectionString)
         {
-            if (tenant == null)
-                throw new ArgumentNullException(nameof(tenant));
-
-            if (string.IsNullOrEmpty(tenant.ConnectionString))
-                throw new Exception("La cadena de conexión del tenant no está configurada.");
-
             var optionsBuilder = new DbContextOptionsBuilder<MyERPDbContext>();
-            optionsBuilder.UseSqlServer(tenant.ConnectionString);
+            optionsBuilder.UseSqlServer(connectionString);
             return new MyERPDbContext(optionsBuilder.Options);
         }
     }
 }
-

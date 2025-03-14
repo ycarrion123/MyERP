@@ -7,7 +7,7 @@
     <!--<UseMaui>true</UseMaui>-->
     <SingleProject>true</SingleProject>
     <WindowsSdkPackageVersion>10.0.19041.38</WindowsSdkPackageVersion>
-    <RuntimeIdentifiers>android-arm64;ios-arm64;maccatalyst-x64;win10-x64</RuntimeIdentifiers>
+    <RuntimeIdentifiers>android-arm64;ios-arm64;maccatalyst-x64;win-x64</RuntimeIdentifiers>
   </PropertyGroup>
 
   <ItemGroup>
@@ -1922,6 +1922,22 @@
     <Folder Include="obj\Debug\net8.0-windows10.0.19041.0\ref\" />
     <Folder Include="obj\Debug\net8.0\refint\" />
     <Folder Include="obj\Debug\net8.0\ref\" />
+  </ItemGroup>
+  <ItemGroup>
+    <MauiXaml Update="Views\LoginPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </MauiXaml>
+    <MauiXaml Update="Views\UsuariosPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </MauiXaml>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="Views\LoginPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="Views\UsuariosPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
   </ItemGroup>
 
 </Project>

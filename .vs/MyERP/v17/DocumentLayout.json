@@ -3,43 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Yelser Carrion\\source\\repos\\MyERP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|MyERP\\MyERP\\MyERP.csproj|c:\\users\\yelser carrion\\source\\repos\\myerp\\myerp\\myerp\\services\\tenantdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|MyERP\\MyERP\\MyERP.csproj|solutionrelative:myerp\\myerp\\services\\tenantdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AA5F22B-62F8-414F-AE50-635E99EB3F76}|MyERP\\MyERP.WinUI\\MyERP.WinUI.csproj|c:\\users\\yelser carrion\\source\\repos\\myerp\\myerp\\myerp.winui\\myerp.winui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1AA5F22B-62F8-414F-AE50-635E99EB3F76}|MyERP\\MyERP.WinUI\\MyERP.WinUI.csproj|solutionrelative:myerp\\myerp.winui\\myerp.winui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.407\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|MyERP\\MyERP\\MyERP.csproj|c:\\users\\yelser carrion\\source\\repos\\myerp\\myerp\\myerp\\data\\myerpdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|MyERP\\MyERP\\MyERP.csproj|solutionrelative:myerp\\myerp\\data\\myerpdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|MyERP\\MyERP\\MyERP.csproj|c:\\users\\yelser carrion\\source\\repos\\myerp\\myerp\\myerp\\services\\repositories\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|MyERP\\MyERP\\MyERP.csproj|solutionrelative:myerp\\myerp\\services\\repositories\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|MyERP\\MyERP\\MyERP.csproj|c:\\users\\yelser carrion\\source\\repos\\myerp\\myerp\\myerp\\models\\saas\\tenantinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|MyERP\\MyERP\\MyERP.csproj|solutionrelative:myerp\\myerp\\models\\saas\\tenantinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|MyERP\\MyERP\\MyERP.csproj|c:\\users\\yelser carrion\\source\\repos\\myerp\\myerp\\myerp\\mauiprogramextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|MyERP\\MyERP\\MyERP.csproj|solutionrelative:myerp\\myerp\\mauiprogramextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|MyERP\\MyERP\\MyERP.csproj|c:\\users\\yelser carrion\\source\\repos\\myerp\\myerp\\myerp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|MyERP\\MyERP\\MyERP.csproj|solutionrelative:myerp\\myerp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|MyERP\\MyERP\\MyERP.csproj|c:\\users\\yelser carrion\\source\\repos\\myerp\\myerp\\myerp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|MyERP\\MyERP\\MyERP.csproj|solutionrelative:myerp\\myerp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|MyERP\\MyERP\\MyERP.csproj|c:\\users\\yelser carrion\\source\\repos\\myerp\\myerp\\myerp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|MyERP\\MyERP\\MyERP.csproj|solutionrelative:myerp\\myerp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|MyERP\\MyERP\\MyERP.csproj|c:\\users\\yelser carrion\\source\\repos\\myerp\\myerp\\myerp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|MyERP\\MyERP\\MyERP.csproj|solutionrelative:myerp\\myerp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|MyERP\\MyERP\\MyERP.csproj|c:\\users\\yelser carrion\\source\\repos\\myerp\\myerp\\myerp\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|MyERP\\MyERP\\MyERP.csproj|solutionrelative:myerp\\myerp\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|MyERP\\MyERP\\MyERP.csproj|c:\\users\\yelser carrion\\source\\repos\\myerp\\myerp\\myerp\\views\\usuariospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|MyERP\\MyERP\\MyERP.csproj|solutionrelative:myerp\\myerp\\views\\usuariospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|MyERP\\MyERP\\MyERP.csproj|c:\\users\\yelser carrion\\source\\repos\\myerp\\myerp\\myerp\\views\\usuariospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|MyERP\\MyERP\\MyERP.csproj|solutionrelative:myerp\\myerp\\views\\usuariospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|MyERP\\MyERP\\MyERP.csproj|c:\\users\\yelser carrion\\source\\repos\\myerp\\myerp\\myerp\\services\\tenantdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|MyERP\\MyERP\\MyERP.csproj|solutionrelative:myerp\\myerp\\services\\tenantdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|MyERP\\MyERP\\MyERP.csproj|c:\\users\\yelser carrion\\source\\repos\\myerp\\myerp\\myerp\\data\\myerpdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|MyERP\\MyERP\\MyERP.csproj|solutionrelative:myerp\\myerp\\data\\myerpdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|MyERP\\MyERP\\MyERP.csproj|c:\\users\\yelser carrion\\source\\repos\\myerp\\myerp\\myerp\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|MyERP\\MyERP\\MyERP.csproj|solutionrelative:myerp\\myerp\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|MyERP\\MyERP\\MyERP.csproj|c:\\users\\yelser carrion\\source\\repos\\myerp\\myerp\\myerp\\resources\\tenants.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3338D37-FF50-4A34-96BD-2716ED93F1E2}|MyERP\\MyERP\\MyERP.csproj|solutionrelative:myerp\\myerp\\resources\\tenants.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -49,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 133,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -96,137 +93,136 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TenantDbContextFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Yelser Carrion\\source\\repos\\MyERP\\MyERP\\MyERP\\Services\\TenantDbContextFactory.cs",
-              "RelativeDocumentMoniker": "MyERP\\MyERP\\Services\\TenantDbContextFactory.cs",
-              "ToolTip": "C:\\Users\\Yelser Carrion\\source\\repos\\MyERP\\MyERP\\MyERP\\Services\\TenantDbContextFactory.cs",
-              "RelativeToolTip": "MyERP\\MyERP\\Services\\TenantDbContextFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T03:06:40.255Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e3fb24c2-2e84-3146-a5f8-bc25bbc68f8a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EfRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Yelser Carrion\\source\\repos\\MyERP\\MyERP\\MyERP\\Services\\Repositories\\EfRepository.cs",
-              "RelativeDocumentMoniker": "MyERP\\MyERP\\Services\\Repositories\\EfRepository.cs",
-              "ToolTip": "C:\\Users\\Yelser Carrion\\source\\repos\\MyERP\\MyERP\\MyERP\\Services\\Repositories\\EfRepository.cs",
-              "RelativeToolTip": "MyERP\\MyERP\\Services\\Repositories\\EfRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T03:05:26.062Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MyERPDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Yelser Carrion\\source\\repos\\MyERP\\MyERP\\MyERP\\Data\\MyERPDbContext.cs",
-              "RelativeDocumentMoniker": "MyERP\\MyERP\\Data\\MyERPDbContext.cs",
-              "ToolTip": "C:\\Users\\Yelser Carrion\\source\\repos\\MyERP\\MyERP\\MyERP\\Data\\MyERPDbContext.cs",
-              "RelativeToolTip": "MyERP\\MyERP\\Data\\MyERPDbContext.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T03:03:42.826Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TenantInfo.cs",
-              "DocumentMoniker": "C:\\Users\\Yelser Carrion\\source\\repos\\MyERP\\MyERP\\MyERP\\Models\\SaaS\\TenantInfo.cs",
-              "RelativeDocumentMoniker": "MyERP\\MyERP\\Models\\SaaS\\TenantInfo.cs",
-              "ToolTip": "C:\\Users\\Yelser Carrion\\source\\repos\\MyERP\\MyERP\\MyERP\\Models\\SaaS\\TenantInfo.cs",
-              "RelativeToolTip": "MyERP\\MyERP\\Models\\SaaS\\TenantInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T03:00:45.029Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MauiProgramExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\Yelser Carrion\\source\\repos\\MyERP\\MyERP\\MyERP\\MauiProgramExtensions.cs",
-              "RelativeDocumentMoniker": "MyERP\\MyERP\\MauiProgramExtensions.cs",
-              "ToolTip": "C:\\Users\\Yelser Carrion\\source\\repos\\MyERP\\MyERP\\MyERP\\MauiProgramExtensions.cs",
-              "RelativeToolTip": "MyERP\\MyERP\\MauiProgramExtensions.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAuwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T02:42:47.095Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "C:\\Users\\Yelser Carrion\\source\\repos\\MyERP\\MyERP\\MyERP\\MauiProgram.cs",
               "RelativeDocumentMoniker": "MyERP\\MyERP\\MauiProgram.cs",
               "ToolTip": "C:\\Users\\Yelser Carrion\\source\\repos\\MyERP\\MyERP\\MyERP\\MauiProgram.cs",
               "RelativeToolTip": "MyERP\\MyERP\\MauiProgram.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T02:41:20.031Z"
+              "WhenOpened": "2025-03-12T19:46:53.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Yelser Carrion\\source\\repos\\MyERP\\MyERP\\MyERP\\App.xaml",
+              "RelativeDocumentMoniker": "MyERP\\MyERP\\App.xaml",
+              "ToolTip": "C:\\Users\\Yelser Carrion\\source\\repos\\MyERP\\MyERP\\MyERP\\App.xaml",
+              "RelativeToolTip": "MyERP\\MyERP\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-12T19:45:00.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Yelser Carrion\\source\\repos\\MyERP\\MyERP\\MyERP\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MyERP\\MyERP\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Yelser Carrion\\source\\repos\\MyERP\\MyERP\\MyERP\\App.xaml.cs",
+              "RelativeToolTip": "MyERP\\MyERP\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T19:45:25.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuariosPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Yelser Carrion\\source\\repos\\MyERP\\MyERP\\MyERP\\Views\\UsuariosPage.xaml.cs",
+              "RelativeDocumentMoniker": "MyERP\\MyERP\\Views\\UsuariosPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Yelser Carrion\\source\\repos\\MyERP\\MyERP\\MyERP\\Views\\UsuariosPage.xaml.cs",
+              "RelativeToolTip": "MyERP\\MyERP\\Views\\UsuariosPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T19:38:49.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuariosPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Yelser Carrion\\source\\repos\\MyERP\\MyERP\\MyERP\\Views\\UsuariosPage.xaml",
+              "RelativeDocumentMoniker": "MyERP\\MyERP\\Views\\UsuariosPage.xaml",
+              "ToolTip": "C:\\Users\\Yelser Carrion\\source\\repos\\MyERP\\MyERP\\MyERP\\Views\\UsuariosPage.xaml",
+              "RelativeToolTip": "MyERP\\MyERP\\Views\\UsuariosPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-12T19:38:09.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TenantDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Yelser Carrion\\source\\repos\\MyERP\\MyERP\\MyERP\\Services\\TenantDbContextFactory.cs",
+              "RelativeDocumentMoniker": "MyERP\\MyERP\\Services\\TenantDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Yelser Carrion\\source\\repos\\MyERP\\MyERP\\MyERP\\Services\\TenantDbContextFactory.cs",
+              "RelativeToolTip": "MyERP\\MyERP\\Services\\TenantDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T19:37:10.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Yelser Carrion\\source\\repos\\MyERP\\MyERP\\MyERP\\Views\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "MyERP\\MyERP\\Views\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\Yelser Carrion\\source\\repos\\MyERP\\MyERP\\MyERP\\Views\\LoginPage.xaml",
+              "RelativeToolTip": "MyERP\\MyERP\\Views\\LoginPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-12T19:35:09.554Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Yelser Carrion\\source\\repos\\MyERP\\MyERP\\MyERP\\AppShell.xaml.cs",
-              "RelativeDocumentMoniker": "MyERP\\MyERP\\AppShell.xaml.cs",
-              "ToolTip": "C:\\Users\\Yelser Carrion\\source\\repos\\MyERP\\MyERP\\MyERP\\AppShell.xaml.cs",
-              "RelativeToolTip": "MyERP\\MyERP\\AppShell.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T02:38:42.591Z"
+              "Title": "tenants.json",
+              "DocumentMoniker": "C:\\Users\\Yelser Carrion\\source\\repos\\MyERP\\MyERP\\MyERP\\Resources\\tenants.json",
+              "RelativeDocumentMoniker": "MyERP\\MyERP\\Resources\\tenants.json",
+              "ToolTip": "C:\\Users\\Yelser Carrion\\source\\repos\\MyERP\\MyERP\\MyERP\\Resources\\tenants.json",
+              "RelativeToolTip": "MyERP\\MyERP\\Resources\\tenants.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T19:31:39.107Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Yelser Carrion\\source\\repos\\MyERP\\MyERP\\MyERP\\Views\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "MyERP\\MyERP\\Views\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Yelser Carrion\\source\\repos\\MyERP\\MyERP\\MyERP\\Views\\MainPage.xaml.cs",
-              "RelativeToolTip": "MyERP\\MyERP\\Views\\MainPage.xaml.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAwBUAAABXAAAA",
+              "DocumentIndex": 6,
+              "Title": "MyERPDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Yelser Carrion\\source\\repos\\MyERP\\MyERP\\MyERP\\Data\\MyERPDbContext.cs",
+              "RelativeDocumentMoniker": "MyERP\\MyERP\\Data\\MyERPDbContext.cs",
+              "ToolTip": "C:\\Users\\Yelser Carrion\\source\\repos\\MyERP\\MyERP\\MyERP\\Data\\MyERPDbContext.cs",
+              "RelativeToolTip": "MyERP\\MyERP\\Data\\MyERPDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T23:15:01.988Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "WhenOpened": "2025-03-12T18:15:21.846Z",
+              "EditorCaption": ""
             }
           ]
         },
         {
           "DockedWidth": 320,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Microsoft.NET.Sdk.ImportWorkloads.targets",
-              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.407\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.407\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.targets",
-              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.407\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.407\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.targets",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAWwCUAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-03-12T14:27:22.995Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MyERP.WinUI.csproj",
-              "DocumentMoniker": "C:\\Users\\Yelser Carrion\\source\\repos\\MyERP\\MyERP\\MyERP.WinUI\\MyERP.WinUI.csproj",
-              "RelativeDocumentMoniker": "MyERP\\MyERP.WinUI\\MyERP.WinUI.csproj",
-              "ToolTip": "C:\\Users\\Yelser Carrion\\source\\repos\\MyERP\\MyERP\\MyERP.WinUI\\MyERP.WinUI.csproj",
-              "RelativeToolTip": "MyERP\\MyERP.WinUI\\MyERP.WinUI.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-12T14:22:38.603Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"

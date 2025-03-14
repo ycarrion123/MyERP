@@ -5051,7 +5051,7 @@
       "projectName": "MyERP.WinUI",
       "projectPath": "C:\\Users\\Yelser Carrion\\source\\repos\\MyERP\\MyERP\\MyERP.WinUI\\MyERP.WinUI.csproj",
       "packagesPath": "C:\\Users\\Yelser Carrion\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yelser Carrion\\source\\repos\\MyERP\\MyERP\\MyERP.WinUI\\obj\\",
+      "outputPath": "C:\\Users\\Yelser Carrion\\Source\\Repos\\MyERP\\MyERP\\MyERP.WinUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             x:Class="MyERP.Views.LoginPage"
+             Title="Login">
+    <StackLayout Padding="30" Spacing="15">
+        <Label Text="Ingrese su Email y Contraseña" 
+           FontAttributes="Bold" 
+           FontSize="Medium" 
+           HorizontalOptions="Center" />
+        <Entry x:Name="EmailEntry" Placeholder="Email" Keyboard="Email" />
+        <Entry x:Name="PasswordEntry" Placeholder="Contraseña" IsPassword="True" />
+        <Button Text="Iniciar Sesión" Clicked="OnLoginClicked" />
+    </StackLayout>
+</ContentPage>

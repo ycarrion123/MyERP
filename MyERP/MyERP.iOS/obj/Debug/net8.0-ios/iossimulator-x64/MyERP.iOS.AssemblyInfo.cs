@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyERP.iOS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+087c1e5d80a8580921788a90e20b6d301c28816f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyERP.iOS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyERP.iOS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

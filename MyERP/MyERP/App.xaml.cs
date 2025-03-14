@@ -9,7 +9,8 @@ namespace MyERP
         public App()
         {
             InitializeComponent();
-            MainPage = new AppShell();
+            // Se envuelve la primera página en un NavigationPage para habilitar la navegación
+            MainPage = new NavigationPage(new Views.LoginPage());
         }
     }
 }

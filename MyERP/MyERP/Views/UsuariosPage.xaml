@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             x:Class="MyERP.Views.UsuariosPage"
+             Title="Usuarios">
+    <StackLayout>
+        <!-- Cabecera con información del usuario y base de datos -->
+        <Label x:Name="HeaderLabel" FontAttributes="Bold" 
+           FontSize="Medium" HorizontalOptions="Center" Margin="10"/>
+        <!-- ListView para mostrar la lista de usuarios -->
+        <ListView x:Name="UsuariosListView">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal" Padding="10">
+                            <Label Text="{Binding Codigo}" WidthRequest="100"/>
+                            <Label Text="{Binding Nombre}" WidthRequest="200"/>
+                            <Label Text="{Binding Grupo}" WidthRequest="50"/>
+                            <Label Text="{Binding Supervisor}" WidthRequest="50"/>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>

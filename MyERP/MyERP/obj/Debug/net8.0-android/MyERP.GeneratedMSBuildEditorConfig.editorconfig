@@ -46,3 +46,15 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MyERP.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/Yelser Carrion/source/repos/MyERP/MyERP/MyERP/Views/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyERP.Views.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\LoginPage.xaml
+
+[C:/Users/Yelser Carrion/source/repos/MyERP/MyERP/MyERP/Views/UsuariosPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyERP.Views.UsuariosPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\UsuariosPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\UsuariosPage.xaml
